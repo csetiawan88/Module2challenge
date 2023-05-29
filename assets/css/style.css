@@ -37,6 +37,18 @@ img  {
   outline: 3px solid var(--red);
 }
 
+
+.larger-image {
+  height: 15rem;
+  width: auto;
+}
+
+.example-section {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 15rem;
+}
+
 .image {
   text-align: center;
   margin: 20px;
