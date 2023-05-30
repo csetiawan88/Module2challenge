@@ -17,5 +17,8 @@ Creating Bareco Portfolio
 3) First image is larger than the other images
 4) Click on the larger image will bring to previouse assignemnt
 5) Reponsive layout achieved. Flex box.
+6) Add border to Image
+7) Add header and footer with style
+
 
 
