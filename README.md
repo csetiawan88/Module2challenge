@@ -20,5 +20,9 @@ Creating Bareco Portfolio
 6) Add border to Image
 7) Add header and footer with style
 
+## Deplyment
+URL: https://csetiawan88.github.io/Module2challenge/
+GITHUB: https://github.com/csetiawan88/Module2challenge
+        csetiawan88/Module2challenge
 
 
